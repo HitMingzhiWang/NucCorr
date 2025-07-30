@@ -1,0 +1,9212 @@
+{
+  "per_image": [
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4388280"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7421477"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7688028"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7784684"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560164"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2962110"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1972698"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2307185"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "955845"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1817800"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801241"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3616949"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6280834"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3763298"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4589018"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1179992"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "565157"
+    },
+    {
+      "TP": 0,
+      "FP": 10,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "592073"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537384"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563228"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6281795"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1818777"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "564302"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3694754"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7800767"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593820"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7777865"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597517"
+    },
+    {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7696278"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912083"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536531"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1252653"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3536055"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5725548"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911990"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7961742"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1243598"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7781487"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "650168"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7781238"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3814970"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594020"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "9045916"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979596"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6506275"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597993"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560421"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499657"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4662559"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4341056"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893135"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "658392"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1253291"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "240515"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7788019"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6654224"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595615"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "245017"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560452"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "230381"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5593011"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "5871695"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980865"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7966784"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559116"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5590508"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561633"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2960917"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6417111"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "243773"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "93786"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564651"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "530754"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1053168"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5725589"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "916478"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598217"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1253229"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597830"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499344"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7683899"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7953859"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "958311"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6277579"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595558"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "574821"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7781370"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1250468"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6653766"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892641"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1252632"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2153757"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "239552"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564370"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "290917"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596703"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560188"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3530672"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890867"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7787408"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "535814"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1172405"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536594"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1255037"
+    },
+    {
+      "TP": 0,
+      "FP": 8,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "649483"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536422"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559790"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4371625"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6281684"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5818698"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "976560"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560158"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597996"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500512"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595803"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8596948"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7788832"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1180214"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "565409"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5591834"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3534407"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2962172"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8561443"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "529333"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3767018"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7682786"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1818468"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5818808"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "209043"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595970"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "976302"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1972060"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500515"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1250291"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8596072"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "499111"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893040"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "245248"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "959588"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1079246"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "917417"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4589135"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1123024"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "51658"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564249"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5815211"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1580159"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598653"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535735"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "916507"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4692065"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4370714"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4341373"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "613143"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2110539"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "659267"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535791"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3532157"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536031"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1338277"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536334"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5784509"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1255048"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "240071"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1241989"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3815039"
+    },
+    {
+      "TP": 0,
+      "FP": 7,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3616928"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1255259"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979660"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7540398"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4899844"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1276551"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1079250"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499484"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4,
+      "file_id": "1122655"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889831"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8596402"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4297107"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535469"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561397"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560381"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3468455"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3696579"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7960267"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7960040"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3058335"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "969615"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4370654"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598199"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6652083"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3457617"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "200732"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "535644"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7787190"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7802053"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563197"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "535927"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "543419"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1501447"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "4882542"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595898"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559135"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "530477"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1498898"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "537195"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "4698341"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "939416"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "4920677"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "930022"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "308915"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7959630"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7955226"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "3572523"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "308987"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7782172"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780250"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6283113"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4325774"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4409073"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "536706"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "285501"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "243644"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7790144"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5593554"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8264023"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912662"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "246857"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801996"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3534280"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559167"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "613169"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1400121"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "536599"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561347"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3532789"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7968929"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1818819"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4691808"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598229"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8995278"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980057"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893002"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536390"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5589856"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595815"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594505"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3530712"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536488"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7953925"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536902"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2962761"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1956675"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6418223"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "242842"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4370674"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "592807"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890579"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1968132"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535976"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7789866"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6279553"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596265"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537354"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2145148"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7779834"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560994"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780774"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563190"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "191925"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "658533"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1251717"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "522836"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4917039"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559320"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "658393"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "8934132"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3763384"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7956570"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7788456"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536307"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5535419"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1079501"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8978298"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4868923"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "684749"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890650"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "599062"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3532073"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780147"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598157"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "7539552"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893578"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1310190"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "247986"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595600"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "891520"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561848"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "307914"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8264219"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912607"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "291035"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560972"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7954579"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1253508"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598198"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890303"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7539257"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597041"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "575586"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7783712"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596405"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7784772"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7781178"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4663526"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598616"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "958675"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597748"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780580"
+    },
+    {
+      "TP": 1,
+      "FP": 3,
+      "FN": 0,
+      "Precision": 0.25,
+      "Recall": 1.0,
+      "F1": 0.4,
+      "file_id": "7539683"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4882951"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "230223"
+    },
+    {
+      "TP": 1,
+      "FP": 4,
+      "FN": 0,
+      "Precision": 0.2,
+      "Recall": 1.0,
+      "F1": 0.33333333333333337,
+      "file_id": "1140767"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562355"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7786460"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562047"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500050"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6652093"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1249239"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7959557"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "575052"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563757"
+    },
+    {
+      "TP": 0,
+      "FP": 7,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "241328"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7953775"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "955890"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "536700"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980185"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535414"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "957094"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3471935"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "959143"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2307154"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889119"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "877186"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "939413"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "663607"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6277538"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4289858"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "981662"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889900"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1172931"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1253701"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "485157"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890926"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "160953"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890158"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "930575"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563597"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2307505"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "915865"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "528304"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593856"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564848"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535341"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7541065"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890535"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283518"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501563"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4370637"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801223"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537275"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563963"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4662566"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1354398"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7800718"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8990223"
+    },
+    {
+      "TP": 0,
+      "FP": 11,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1615688"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "248989"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500601"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8937693"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "4368620"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1364922"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8558810"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4371469"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3815059"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8157529"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1568616"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3766927"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500869"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "524426"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7779955"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1243554"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597448"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "663595"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801326"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4264900"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "957391"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801125"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560784"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "213385"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7786600"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "705414"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559325"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500166"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536885"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7954458"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6280788"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8560125"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "242976"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "423566"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980914"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "213750"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "981503"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535381"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "915000"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7684241"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598004"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7346726"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8248404"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "959766"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561524"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3531296"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537262"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912575"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "916078"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1132905"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8936944"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4295243"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1103928"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "565515"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6277096"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7964314"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1048989"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8250102"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594812"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "649966"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595690"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4844314"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1307657"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6276957"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1365145"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593202"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "525056"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596934"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "423564"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1179465"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1254629"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535948"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1498890"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6654991"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536313"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597396"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "530816"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "891450"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "8842722"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1202543"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "9047628"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "244123"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536255"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7967203"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7458143"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "40469"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979252"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536770"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561960"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5871743"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892761"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8263786"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4924143"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3058527"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1249456"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596048"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1138810"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "214387"
+    },
+    {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7695897"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564307"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598216"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6653717"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5924755"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500106"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7781777"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780697"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3764356"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501531"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535507"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7862009"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1816982"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1338684"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "565506"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535990"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "914384"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "200021"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "485514"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499143"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4293347"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563296"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7782303"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3248701"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979635"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6283629"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1818386"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562685"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559138"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564432"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8251112"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560787"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7961308"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597694"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "216745"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562438"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7784475"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4691351"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5782145"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1366355"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892221"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560750"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561437"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597852"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7953858"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560314"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593396"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "307771"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4371702"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1308690"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1243595"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "485511"
+    },
+    {
+      "TP": 0,
+      "FP": 10,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7958142"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "7780742"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4921567"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562992"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3532079"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561758"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594645"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564441"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "50370"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "575314"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4893258"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1242827"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7786957"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283229"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "652552"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561371"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5535629"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283514"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7782338"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4893904"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911850"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562383"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535594"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "250215"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6418296"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "240410"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537048"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562394"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980230"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1354838"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "978987"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "50545"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564387"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6285102"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563823"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333,
+      "file_id": "940859"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "664286"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "5714852"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "940806"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535417"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7447172"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1243624"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1249808"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "960488"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3814637"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780889"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "240931"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596182"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594819"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "955860"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535805"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "9047403"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "960409"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5715595"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980963"
+    },
+    {
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1121175"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "940632"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1249830"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564697"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3533175"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8248642"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7781738"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594515"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "199232"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1122010"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536649"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "662596"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1566778"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560799"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6416417"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595745"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8990617"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5781917"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3535659"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "915507"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "192793"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4371565"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3058341"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564478"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "243620"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536072"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7787335"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536291"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7741458"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "980875"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4844370"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "958649"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3534450"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7802092"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "599617"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593686"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7954554"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "976289"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535693"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559970"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4924098"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4663598"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596297"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1255617"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "239619"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597662"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911873"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7539939"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "532054"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8734787"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4675579"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "170338"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560345"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562551"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1254090"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501131"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "534515"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "308694"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890002"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "1249753"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "957082"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "200024"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1575124"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "522389"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563935"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1818714"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559139"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3533210"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2307483"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "915239"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912398"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1242878"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560839"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8248717"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889125"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "525465"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5784516"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4291623"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "529659"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536478"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892042"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "575256"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7697504"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "528627"
+    },
+    {
+      "TP": 1,
+      "FP": 3,
+      "FN": 0,
+      "Precision": 0.25,
+      "Recall": 1.0,
+      "F1": 0.4,
+      "file_id": "5591827"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "536456"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1498926"
+    },
+    {
+      "TP": 0,
+      "FP": 8,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "705405"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "648818"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1242212"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "959244"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6506258"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "877217"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7740781"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "532212"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "191837"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6490164"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "929749"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "525269"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499306"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1353278"
+    },
+    {
+      "TP": 0,
+      "FP": 8,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4409354"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559156"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535533"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "941301"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "527729"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7779625"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979535"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7540600"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "592870"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535620"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "914478"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563517"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3530409"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6417097"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "248292"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535508"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892723"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1058828"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3248865"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980725"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563426"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597223"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "912320"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8938027"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "249854"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1497489"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892548"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "3471907"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500857"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "308780"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536720"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1818796"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535788"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594565"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8213441"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6283691"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "205601"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "230703"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3694659"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560821"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4916943"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4336428"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501642"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7967554"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595922"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6281816"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "523862"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4925198"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7781907"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "574912"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536892"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911800"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "575078"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7778603"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7954756"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "566013"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562412"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3531305"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1253227"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911778"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "499205"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8559525"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4387975"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3058167"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979716"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535407"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1567818"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537435"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "562455"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564500"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7783121"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598689"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "537010"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "653417"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536008"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6281783"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8249247"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893573"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1253569"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7778215"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535554"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980177"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564413"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559760"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980252"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597576"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "248628"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2961437"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "208156"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594805"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6283088"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "498656"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "485134"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1254476"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7957299"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "230238"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283486"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5714851"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537018"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1161170"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "485712"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7529768"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911900"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8266061"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8596892"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1324383"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7440430"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5556435"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5782069"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889061"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564253"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "929076"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7540093"
+    },
+    {
+      "TP": 0,
+      "FP": 6,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4900083"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7788212"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594724"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7285056"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5739617"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6416038"
+    },
+    {
+      "TP": 0,
+      "FP": 9,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4893668"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5715615"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1972204"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8995221"
+    },
+    {
+      "TP": 0,
+      "FP": 7,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "652382"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598973"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4925224"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5590410"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7541182"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "599618"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "960009"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "207842"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8098891"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3532290"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "575708"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "592527"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563463"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7786452"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980142"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4899773"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598194"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7904113"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6654863"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560161"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "485667"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2961411"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3530757"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7779374"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6654204"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4264918"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7956655"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6652882"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500565"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7786052"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3468324"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "979513"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5234711"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "940906"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501337"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561533"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1367017"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7801607"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889823"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "214087"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3533463"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "957399"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "182669"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6284338"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564872"
+    },
+    {
+      "TP": 0,
+      "FP": 7,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4922855"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "2110548"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535342"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1058903"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7781532"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7955886"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559676"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559137"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7780955"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536105"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "889087"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7782852"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283236"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559789"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "9048165"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7782655"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3534471"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536451"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560767"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1250535"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "498662"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "565483"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3536180"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892764"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1242891"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7420927"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564364"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890118"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "652944"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "896293"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911963"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "594076"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1566609"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1062467"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7904004"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563505"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "916299"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535592"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2960876"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "561876"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5739545"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7491226"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "219509"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "559150"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8249111"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598238"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1200496"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911970"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7969103"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "246576"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8253569"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535767"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7778840"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7905027"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7968331"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7684086"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6652874"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "534466"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536090"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4699047"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "170580"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "955821"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1243025"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "90940"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7782918"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "917080"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4922913"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3456862"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "593228"
+    },
+    {
+      "TP": 0,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8933682"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1250118"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4892744"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5782036"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1499523"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "980902"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6283464"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564463"
+    },
+    {
+      "TP": 0,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7800987"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1079476"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7962051"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7700249"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "559800"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5592997"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1498357"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1244592"
+    },
+    {
+      "TP": 0,
+      "FP": 5,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4325620"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890383"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "6284356"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7781176"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564142"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "5590498"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7954836"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893281"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "533760"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564805"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "531833"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7458193"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "911885"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "8565997"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536734"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "7218548"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563439"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7346753"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598333"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7780475"
+    },
+    {
+      "TP": 1,
+      "FP": 5,
+      "FN": 0,
+      "Precision": 0.16666666666666666,
+      "Recall": 1.0,
+      "F1": 0.2857142857142857,
+      "file_id": "4921349"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3533471"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "9046032"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "240453"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1250027"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1179696"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "50141"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1178650"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7449426"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "1308205"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563853"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1242042"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1972622"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "241003"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "664262"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563297"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "914750"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "8994913"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "975362"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7960028"
+    },
+    {
+      "TP": 1,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666,
+      "file_id": "563959"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3764399"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "596944"
+    },
+    {
+      "TP": 0,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4900703"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7696886"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "529722"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "976565"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564874"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "662608"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "563776"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "893289"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "285479"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "3532684"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "536364"
+    },
+    {
+      "TP": 0,
+      "FP": 8,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "7285235"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "890574"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7541073"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1501308"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1817906"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1251355"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1243916"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "528395"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1242893"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "892718"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597990"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "564325"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3532084"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "535996"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "597524"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "3695796"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "595445"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "893078"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "7448491"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560693"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "5593534"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "560360"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4915568"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "598727"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "2962741"
+    },
+    {
+      "TP": 1,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.3333333333333333,
+      "Recall": 1.0,
+      "F1": 0.5,
+      "file_id": "524028"
+    },
+    {
+      "TP": 0,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "94874"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "1366115"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6285121"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "6279578"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "1500606"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "537031"
+    },
+    {
+      "TP": 0,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0,
+      "file_id": "4691273"
+    },
+    {
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0,
+      "file_id": "4389467"
+    }
+  ],
+  "global_metrics": {
+    "Precision": 0.41490765171503957,
+    "Recall": 0.6106796116504855,
+    "F1": 0.4941084053417125
+  },
+  "average_metrics": {
+    "Precision": 0.5841813437703849,
+    "Recall": 0.6113829093281148,
+    "F1": 0.592288696300438
+  }
+}

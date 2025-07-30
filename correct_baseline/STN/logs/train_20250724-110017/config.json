@@ -1,0 +1,23 @@
+{
+  "data_root": "/nvme2/mingzhi/NucCorr/correct_baseline/contrastive_learning/data",
+  "img_dir": "img",
+  "seg_dir": "seg",
+  "train_split": "train.txt",
+  "val_split": "val.txt",
+  "use_memmap": true,
+  "embed_dim": 16,
+  "batch_size": 4,
+  "epochs": 100,
+  "lr": 0.002,
+  "weight_decay": 1e-05,
+  "num_workers": 4,
+  "seed": 42,
+  "margin": 1.5,
+  "lambda_merge": 0.1,
+  "lambda_split": 1.0,
+  "rotation_prob": 0.5,
+  "flip_prob": 0.5,
+  "noise_std": 0.05,
+  "neg_samples": 5,
+  "log_dir": "./logs"
+}

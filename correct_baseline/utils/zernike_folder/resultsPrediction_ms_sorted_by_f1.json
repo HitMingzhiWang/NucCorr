@@ -1,0 +1,1964 @@
+{
+  "per_image": [
+    {
+      "truth_file": "1057604_ms.tiff",
+      "pred_file": "1057604_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "1313428_ms.tiff",
+      "pred_file": "1313428_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "1404655_ms_mis.tiff",
+      "pred_file": "1404655_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "1404878_ms.tiff",
+      "pred_file": "1404878_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "183731_mis_ms.tiff",
+      "pred_file": "183731_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "1958298_mis_ms.tiff",
+      "pred_file": "1958298_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "258818_ms_mis.tiff",
+      "pred_file": "258818_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "4389701_ms_mis.tiff",
+      "pred_file": "4389701_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "4389903_mis_ms.tiff",
+      "pred_file": "4389903_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "4390341_ms_mis.tiff",
+      "pred_file": "4390341_pred.tiff",
+      "TP": 7,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "5033050_ms.tiff",
+      "pred_file": "5033050_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "5343320_ms.tiff",
+      "pred_file": "5343320_pred.tiff",
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "536730_mis_ms.tiff",
+      "pred_file": "536730_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "5587571_ms.tiff",
+      "pred_file": "5587571_pred.tiff",
+      "TP": 1,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "563879_ms_mis.tiff",
+      "pred_file": "563879_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "564737_ms.tiff",
+      "pred_file": "564737_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "575898_mis_ms.tiff",
+      "pred_file": "575898_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "564906_ms_mis.tiff",
+      "pred_file": "564906_pred.tiff",
+      "TP": 6,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "6419040_ms_mis.tiff",
+      "pred_file": "6419040_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "6891117_ms.tiff",
+      "pred_file": "6891117_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7449874_ms_mis.tiff",
+      "pred_file": "7449874_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7449929_mis_annotation_ms.tiff",
+      "pred_file": "7449929_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7681711_ms_notfound.tiff",
+      "pred_file": "7681711_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7681872_mis_ms.tiff",
+      "pred_file": "7681872_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7681933_mis_ms.tiff",
+      "pred_file": "7681933_pred.tiff",
+      "TP": 5,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7682501_ms_mis.tiff",
+      "pred_file": "7682501_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7682521_mis_ms.tiff",
+      "pred_file": "7682521_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7682046_ms_mis.tiff",
+      "pred_file": "7682046_pred.tiff",
+      "TP": 8,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7682750_mis_ms.tiff",
+      "pred_file": "7682750_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7682697_mis_ms.tiff",
+      "pred_file": "7682697_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7694886_mis_ms.tiff",
+      "pred_file": "7694886_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7695053_mis_ms.tiff",
+      "pred_file": "7695053_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7695692_ms_mis.tiff",
+      "pred_file": "7695692_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7695885_ms_mis.tiff",
+      "pred_file": "7695885_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7696028_ms_mis.tiff",
+      "pred_file": "7696028_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7696124_mis_ms.tiff",
+      "pred_file": "7696124_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7696349_mis_ms.tiff",
+      "pred_file": "7696349_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7696366_mis_ms.tiff",
+      "pred_file": "7696366_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7696519_ms_mis.tiff",
+      "pred_file": "7696519_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7697062_ms_mis.tiff",
+      "pred_file": "7697062_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7697189_ms_mis.tiff",
+      "pred_file": "7697189_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7790871_ms_not_found.tiff",
+      "pred_file": "7790871_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7932487_ms.tiff",
+      "pred_file": "7932487_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7956452_mis_ms.tiff",
+      "pred_file": "7956452_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7957544_ms_notfound.tiff",
+      "pred_file": "7957544_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8151155_mis_ms.tiff",
+      "pred_file": "8151155_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8162821_ms.tiff",
+      "pred_file": "8162821_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8148956_ms_mis.tiff",
+      "pred_file": "8148956_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8248830_mis_ms.tiff",
+      "pred_file": "8248830_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8248078_mis_ms.tiff",
+      "pred_file": "8248078_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8252420_mis_ms.tiff",
+      "pred_file": "8252420_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8249536_mis_ms.tiff",
+      "pred_file": "8249536_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8493615_ms.tiff",
+      "pred_file": "8493615_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8532340_ms_mis.tiff",
+      "pred_file": "8532340_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8511723_mis_ms.tiff",
+      "pred_file": "8511723_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8553838_mis_ms.tiff",
+      "pred_file": "8553838_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8586267_ms_mis.tiff",
+      "pred_file": "8586267_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8586875_mis_ms.tiff",
+      "pred_file": "8586875_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8597095_ms_notfound.tiff",
+      "pred_file": "8597095_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8933270_ms_mis.tiff",
+      "pred_file": "8933270_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8934278_mis_ms.tiff",
+      "pred_file": "8934278_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8934614_mis_ms.tiff",
+      "pred_file": "8934614_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "895729_ms_mis.tiff",
+      "pred_file": "895729_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "8991691_mis_ms.tiff",
+      "pred_file": "8991691_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "914125_ms_mis.tiff",
+      "pred_file": "914125_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "917523_ms_mis.tiff",
+      "pred_file": "917523_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "940280_ms_mis.tiff",
+      "pred_file": "940280_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "940598_ms_mis.tiff",
+      "pred_file": "940598_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "958386_ms_mis.tiff",
+      "pred_file": "958386_pred.tiff",
+      "TP": 3,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "960177_mis_ms.tiff",
+      "pred_file": "960177_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "959602_mis_ms.tiff",
+      "pred_file": "959602_pred.tiff",
+      "TP": 5,
+      "FP": 0,
+      "FN": 0,
+      "Precision": 1.0,
+      "Recall": 1.0,
+      "F1": 1.0
+    },
+    {
+      "truth_file": "7422072_ms_mis.tiff",
+      "pred_file": "7422072_pred.tiff",
+      "TP": 24,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 1.0,
+      "Recall": 0.96,
+      "F1": 0.9795918367346939
+    },
+    {
+      "truth_file": "8213477_ms_mis.tiff",
+      "pred_file": "8213477_pred.tiff",
+      "TP": 13,
+      "FP": 0,
+      "FN": 2,
+      "Precision": 1.0,
+      "Recall": 0.8666666666666667,
+      "F1": 0.9285714285714286
+    },
+    {
+      "truth_file": "7681642_mis_ms.tiff",
+      "pred_file": "7681642_pred.tiff",
+      "TP": 6,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.8571428571428571,
+      "Recall": 1.0,
+      "F1": 0.923076923076923
+    },
+    {
+      "truth_file": "1122733_ms_mis.tiff",
+      "pred_file": "1122733_pred.tiff",
+      "TP": 5,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.8333333333333334,
+      "Recall": 1.0,
+      "F1": 0.9090909090909091
+    },
+    {
+      "truth_file": "5814588_ms_mis.tiff",
+      "pred_file": "5814588_pred.tiff",
+      "TP": 5,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 1.0,
+      "Recall": 0.8333333333333334,
+      "F1": 0.9090909090909091
+    },
+    {
+      "truth_file": "1310457_ms_mis.tiff",
+      "pred_file": "1310457_pred.tiff",
+      "TP": 4,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.8,
+      "Recall": 1.0,
+      "F1": 0.888888888888889
+    },
+    {
+      "truth_file": "4388097_ms_mis.tiff",
+      "pred_file": "4388097_pred.tiff",
+      "TP": 4,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.8,
+      "Recall": 1.0,
+      "F1": 0.888888888888889
+    },
+    {
+      "truth_file": "563839_mis_ms.tiff",
+      "pred_file": "563839_pred.tiff",
+      "TP": 4,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 1.0,
+      "Recall": 0.8,
+      "F1": 0.888888888888889
+    },
+    {
+      "truth_file": "7421409_ms_mis.tiff",
+      "pred_file": "7421409_pred.tiff",
+      "TP": 8,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.8,
+      "Recall": 1.0,
+      "F1": 0.888888888888889
+    },
+    {
+      "truth_file": "4388285_ms_mis.tiff",
+      "pred_file": "4388285_pred.tiff",
+      "TP": 7,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.875,
+      "Recall": 0.875,
+      "F1": 0.875
+    },
+    {
+      "truth_file": "1309636_mis_ms.tiff",
+      "pred_file": "1309636_pred.tiff",
+      "TP": 3,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.75,
+      "Recall": 1.0,
+      "F1": 0.8571428571428571
+    },
+    {
+      "truth_file": "1307789_ms_mis.tiff",
+      "pred_file": "1307789_pred.tiff",
+      "TP": 6,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.75,
+      "Recall": 1.0,
+      "F1": 0.8571428571428571
+    },
+    {
+      "truth_file": "7694233_mis_ms.tiff",
+      "pred_file": "7694233_pred.tiff",
+      "TP": 5,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.8333333333333334,
+      "Recall": 0.8333333333333334,
+      "F1": 0.8333333333333334
+    },
+    {
+      "truth_file": "7421608_ms_mis.tiff",
+      "pred_file": "7421608_pred.tiff",
+      "TP": 41,
+      "FP": 6,
+      "FN": 11,
+      "Precision": 0.8723404255319149,
+      "Recall": 0.7884615384615384,
+      "F1": 0.8282828282828283
+    },
+    {
+      "truth_file": "1956558_mis_annotation_ms.tiff",
+      "pred_file": "1956558_pred.tiff",
+      "TP": 4,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.8,
+      "Recall": 0.8,
+      "F1": 0.8000000000000002
+    },
+    {
+      "truth_file": "7694809_mis_annotation_ms.tiff",
+      "pred_file": "7694809_pred.tiff",
+      "TP": 4,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.8,
+      "Recall": 0.8,
+      "F1": 0.8000000000000002
+    },
+    {
+      "truth_file": "1103925_ms_mis.tiff",
+      "pred_file": "1103925_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.6666666666666666,
+      "Recall": 1.0,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "1570658_mis_ms.tiff",
+      "pred_file": "1570658_pred.tiff",
+      "TP": 4,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.6666666666666666,
+      "Recall": 1.0,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "1582312_mis_ms.tiff",
+      "pred_file": "1582312_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.6666666666666666,
+      "Recall": 1.0,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "4390598_ms.tiff",
+      "pred_file": "4390598_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 1.0,
+      "Recall": 0.6666666666666666,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "7660640_annotation_ms.tiff",
+      "pred_file": "7660640_pred.tiff",
+      "TP": 2,
+      "FP": 0,
+      "FN": 1,
+      "Precision": 1.0,
+      "Recall": 0.6666666666666666,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "9163167_ms_mis.tiff",
+      "pred_file": "9163167_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 0,
+      "Precision": 0.6666666666666666,
+      "Recall": 1.0,
+      "F1": 0.8
+    },
+    {
+      "truth_file": "8213237_ms_mis.tiff",
+      "pred_file": "8213237_pred.tiff",
+      "TP": 13,
+      "FP": 3,
+      "FN": 5,
+      "Precision": 0.8125,
+      "Recall": 0.7222222222222222,
+      "F1": 0.7647058823529411
+    },
+    {
+      "truth_file": "5589430_mis_ms_annotation.tiff",
+      "pred_file": "5589430_pred.tiff",
+      "TP": 3,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.75,
+      "Recall": 0.75,
+      "F1": 0.75
+    },
+    {
+      "truth_file": "537178_ms_mis.tiff",
+      "pred_file": "537178_pred.tiff",
+      "TP": 6,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.75,
+      "Recall": 0.75,
+      "F1": 0.75
+    },
+    {
+      "truth_file": "960337_ms_mis.tiff",
+      "pred_file": "960337_pred.tiff",
+      "TP": 3,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.75,
+      "Recall": 0.75,
+      "F1": 0.75
+    },
+    {
+      "truth_file": "4389032_ms_mis.tiff",
+      "pred_file": "4389032_pred.tiff",
+      "TP": 13,
+      "FP": 6,
+      "FN": 3,
+      "Precision": 0.6842105263157895,
+      "Recall": 0.8125,
+      "F1": 0.742857142857143
+    },
+    {
+      "truth_file": "4943101_mis_ms_annotation.tiff",
+      "pred_file": "4943101_pred.tiff",
+      "TP": 4,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.8,
+      "F1": 0.7272727272727272
+    },
+    {
+      "truth_file": "575101_ms_mis.tiff",
+      "pred_file": "575101_pred.tiff",
+      "TP": 4,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.8,
+      "Recall": 0.6666666666666666,
+      "F1": 0.7272727272727272
+    },
+    {
+      "truth_file": "1122838_ms_mis.tiff",
+      "pred_file": "1122838_pred.tiff",
+      "TP": 20,
+      "FP": 11,
+      "FN": 8,
+      "Precision": 0.6451612903225806,
+      "Recall": 0.7142857142857143,
+      "F1": 0.6779661016949152
+    },
+    {
+      "truth_file": "1123094_mis_ms.tiff",
+      "pred_file": "1123094_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "1526367_mis_ms.tiff",
+      "pred_file": "1526367_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "1582575_mis_ms.tiff",
+      "pred_file": "1582575_pred.tiff",
+      "TP": 5,
+      "FP": 2,
+      "FN": 3,
+      "Precision": 0.7142857142857143,
+      "Recall": 0.625,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "4387551_ms_mis.tiff",
+      "pred_file": "4387551_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.6666666666666666,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "542768_ms_mis.tiff",
+      "pred_file": "542768_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.6666666666666666,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "7449020_ms_not_found.tiff",
+      "pred_file": "7449020_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 0,
+      "Precision": 0.5,
+      "Recall": 1.0,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "8533661_mis_ms.tiff",
+      "pred_file": "8533661_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.6666666666666666,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "9046439_mis_ms.tiff",
+      "pred_file": "9046439_pred.tiff",
+      "TP": 4,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.5714285714285714,
+      "Recall": 0.8,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "8558952_ms_mis.tiff",
+      "pred_file": "8558952_pred.tiff",
+      "TP": 18,
+      "FP": 7,
+      "FN": 11,
+      "Precision": 0.72,
+      "Recall": 0.6206896551724138,
+      "F1": 0.6666666666666666
+    },
+    {
+      "truth_file": "4403273_ms.tiff",
+      "pred_file": "4403273_pred.tiff",
+      "TP": 3,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.6,
+      "Recall": 0.75,
+      "F1": 0.6666666666666665
+    },
+    {
+      "truth_file": "7682977_ms_mis.tiff",
+      "pred_file": "7682977_pred.tiff",
+      "TP": 6,
+      "FP": 1,
+      "FN": 5,
+      "Precision": 0.8571428571428571,
+      "Recall": 0.5454545454545454,
+      "F1": 0.6666666666666665
+    },
+    {
+      "truth_file": "940331_mis_ms.tiff",
+      "pred_file": "940331_pred.tiff",
+      "TP": 3,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.75,
+      "Recall": 0.6,
+      "F1": 0.6666666666666665
+    },
+    {
+      "truth_file": "983016_ms_mis.tiff",
+      "pred_file": "983016_pred.tiff",
+      "TP": 3,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.6,
+      "Recall": 0.75,
+      "F1": 0.6666666666666665
+    },
+    {
+      "truth_file": "1311823_ms_mis.tiff",
+      "pred_file": "1311823_pred.tiff",
+      "TP": 21,
+      "FP": 15,
+      "FN": 8,
+      "Precision": 0.5833333333333334,
+      "Recall": 0.7241379310344828,
+      "F1": 0.6461538461538462
+    },
+    {
+      "truth_file": "1139915_ms_mis.tiff",
+      "pred_file": "1139915_pred.tiff",
+      "TP": 15,
+      "FP": 6,
+      "FN": 12,
+      "Precision": 0.7142857142857143,
+      "Recall": 0.5555555555555556,
+      "F1": 0.6250000000000001
+    },
+    {
+      "truth_file": "612830_ms_mis.tiff",
+      "pred_file": "612830_pred.tiff",
+      "TP": 3,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.6,
+      "Recall": 0.6,
+      "F1": 0.6
+    },
+    {
+      "truth_file": "5031924_ms.tiff",
+      "pred_file": "5031924_pred.tiff",
+      "TP": 2,
+      "FP": 3,
+      "FN": 0,
+      "Precision": 0.4,
+      "Recall": 1.0,
+      "F1": 0.5714285714285715
+    },
+    {
+      "truth_file": "6466731_mis_ms_annotation.tiff",
+      "pred_file": "6466731_pred.tiff",
+      "TP": 2,
+      "FP": 3,
+      "FN": 0,
+      "Precision": 0.4,
+      "Recall": 1.0,
+      "F1": 0.5714285714285715
+    },
+    {
+      "truth_file": "7446559_mis_ms_not_found.tiff",
+      "pred_file": "7446559_pred.tiff",
+      "TP": 2,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.5,
+      "F1": 0.5714285714285715
+    },
+    {
+      "truth_file": "575062_ms_mis.tiff",
+      "pred_file": "575062_pred.tiff",
+      "TP": 4,
+      "FP": 3,
+      "FN": 3,
+      "Precision": 0.5714285714285714,
+      "Recall": 0.5714285714285714,
+      "F1": 0.5714285714285714
+    },
+    {
+      "truth_file": "1160042_mis_ms.tiff",
+      "pred_file": "1160042_pred.tiff",
+      "TP": 3,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.6,
+      "F1": 0.5454545454545454
+    },
+    {
+      "truth_file": "1972527_ms_mis.tiff",
+      "pred_file": "1972527_pred.tiff",
+      "TP": 4,
+      "FP": 2,
+      "FN": 5,
+      "Precision": 0.6666666666666666,
+      "Recall": 0.4444444444444444,
+      "F1": 0.5333333333333333
+    },
+    {
+      "truth_file": "7683591_ms_mis.tiff",
+      "pred_file": "7683591_pred.tiff",
+      "TP": 6,
+      "FP": 5,
+      "FN": 6,
+      "Precision": 0.5454545454545454,
+      "Recall": 0.5,
+      "F1": 0.5217391304347826
+    },
+    {
+      "truth_file": "1958996_ms_mis.tiff",
+      "pred_file": "1958996_pred.tiff",
+      "TP": 37,
+      "FP": 43,
+      "FN": 28,
+      "Precision": 0.4625,
+      "Recall": 0.5692307692307692,
+      "F1": 0.5103448275862068
+    },
+    {
+      "truth_file": "1567922_mis_ms.tiff",
+      "pred_file": "1567922_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "1529065_mis_ms.tiff",
+      "pred_file": "1529065_pred.tiff",
+      "TP": 4,
+      "FP": 4,
+      "FN": 4,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "1570610_mis_ms.tiff",
+      "pred_file": "1570610_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "191705_ms_mis.tiff",
+      "pred_file": "191705_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "1957488_ms_mis.tiff",
+      "pred_file": "1957488_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "1957233_ms_mis.tiff",
+      "pred_file": "1957233_pred.tiff",
+      "TP": 3,
+      "FP": 3,
+      "FN": 3,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "244703_ms_no_img.tiff",
+      "pred_file": "244703_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "3095748_ms.tiff",
+      "pred_file": "3095748_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "5042703_mis_ms.tiff",
+      "pred_file": "5042703_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "563828_ms_mis.tiff",
+      "pred_file": "563828_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "564504_mis_ms.tiff",
+      "pred_file": "564504_pred.tiff",
+      "TP": 2,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "6465866_mis_ms.tiff",
+      "pred_file": "6465866_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "6487466_ms_mis.tiff",
+      "pred_file": "6487466_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "7800153_ms_mis.tiff",
+      "pred_file": "7800153_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 1,
+      "Precision": 0.5,
+      "Recall": 0.5,
+      "F1": 0.5
+    },
+    {
+      "truth_file": "1565831_ms_mis.tiff",
+      "pred_file": "1565831_pred.tiff",
+      "TP": 4,
+      "FP": 5,
+      "FN": 4,
+      "Precision": 0.4444444444444444,
+      "Recall": 0.5,
+      "F1": 0.47058823529411764
+    },
+    {
+      "truth_file": "7682167_ms_mis.tiff",
+      "pred_file": "7682167_pred.tiff",
+      "TP": 2,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.4,
+      "Recall": 0.5,
+      "F1": 0.4444444444444445
+    },
+    {
+      "truth_file": "8995194_ms_bad.tiff",
+      "pred_file": "8995194_pred.tiff",
+      "TP": 2,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.4,
+      "Recall": 0.5,
+      "F1": 0.4444444444444445
+    },
+    {
+      "truth_file": "575085_ms_mis.tiff",
+      "pred_file": "575085_pred.tiff",
+      "TP": 4,
+      "FP": 6,
+      "FN": 6,
+      "Precision": 0.4,
+      "Recall": 0.4,
+      "F1": 0.4000000000000001
+    },
+    {
+      "truth_file": "1104554_ms_mis.tiff",
+      "pred_file": "1104554_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "1172962_mis_ms.tiff",
+      "pred_file": "1172962_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "1311203_ms_mis.tiff",
+      "pred_file": "1311203_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "1581966_ms_mis.tiff",
+      "pred_file": "1581966_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "1582322_mis_ms.tiff",
+      "pred_file": "1582322_pred.tiff",
+      "TP": 2,
+      "FP": 4,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "191641_ms_mis.tiff",
+      "pred_file": "191641_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.3333333333333333,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "4497760_ms.tiff",
+      "pred_file": "4497760_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 1,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "8595936_ms.tiff",
+      "pred_file": "8595936_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.3333333333333333,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "889471_ms_mis.tiff",
+      "pred_file": "889471_pred.tiff",
+      "TP": 2,
+      "FP": 4,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.5,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "8937783_ms.tiff",
+      "pred_file": "8937783_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.5,
+      "Recall": 0.3333333333333333,
+      "F1": 0.4
+    },
+    {
+      "truth_file": "7930007_ms_mis.tiff",
+      "pred_file": "7930007_pred.tiff",
+      "TP": 3,
+      "FP": 4,
+      "FN": 5,
+      "Precision": 0.42857142857142855,
+      "Recall": 0.375,
+      "F1": 0.39999999999999997
+    },
+    {
+      "truth_file": "1366097_ms_mis.tiff",
+      "pred_file": "1366097_pred.tiff",
+      "TP": 13,
+      "FP": 21,
+      "FN": 25,
+      "Precision": 0.38235294117647056,
+      "Recall": 0.34210526315789475,
+      "F1": 0.3611111111111111
+    },
+    {
+      "truth_file": "1172235_mis_ms.tiff",
+      "pred_file": "1172235_pred.tiff",
+      "TP": 1,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.25,
+      "Recall": 0.5,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "1242955_ms.tiff",
+      "pred_file": "1242955_pred.tiff",
+      "TP": 1,
+      "FP": 3,
+      "FN": 1,
+      "Precision": 0.25,
+      "Recall": 0.5,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "191229_ms_mis.tiff",
+      "pred_file": "191229_pred.tiff",
+      "TP": 2,
+      "FP": 4,
+      "FN": 4,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "2994753_ms.tiff",
+      "pred_file": "2994753_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "4392714_ms_mis.tiff",
+      "pred_file": "4392714_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "7782339_ms.tiff",
+      "pred_file": "7782339_pred.tiff",
+      "TP": 1,
+      "FP": 1,
+      "FN": 3,
+      "Precision": 0.5,
+      "Recall": 0.25,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "915437_ms_mis.tiff",
+      "pred_file": "915437_pred.tiff",
+      "TP": 1,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.3333333333333333,
+      "Recall": 0.3333333333333333,
+      "F1": 0.3333333333333333
+    },
+    {
+      "truth_file": "7668644_ms.tiff",
+      "pred_file": "7668644_pred.tiff",
+      "TP": 1,
+      "FP": 4,
+      "FN": 1,
+      "Precision": 0.2,
+      "Recall": 0.5,
+      "F1": 0.28571428571428575
+    },
+    {
+      "truth_file": "958236_mis_ms.tiff",
+      "pred_file": "958236_pred.tiff",
+      "TP": 1,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.25,
+      "Recall": 0.3333333333333333,
+      "F1": 0.28571428571428575
+    },
+    {
+      "truth_file": "1309389_ms_mis.tiff",
+      "pred_file": "1309389_pred.tiff",
+      "TP": 4,
+      "FP": 13,
+      "FN": 8,
+      "Precision": 0.23529411764705882,
+      "Recall": 0.3333333333333333,
+      "F1": 0.27586206896551724
+    },
+    {
+      "truth_file": "1570086_mis_ms.tiff",
+      "pred_file": "1570086_pred.tiff",
+      "TP": 3,
+      "FP": 10,
+      "FN": 7,
+      "Precision": 0.23076923076923078,
+      "Recall": 0.3,
+      "F1": 0.2608695652173913
+    },
+    {
+      "truth_file": "958605_ms_mis.tiff",
+      "pred_file": "958605_pred.tiff",
+      "TP": 3,
+      "FP": 10,
+      "FN": 7,
+      "Precision": 0.23076923076923078,
+      "Recall": 0.3,
+      "F1": 0.2608695652173913
+    },
+    {
+      "truth_file": "1308287_ms_mis.tiff",
+      "pred_file": "1308287_pred.tiff",
+      "TP": 2,
+      "FP": 6,
+      "FN": 7,
+      "Precision": 0.25,
+      "Recall": 0.2222222222222222,
+      "F1": 0.23529411764705882
+    },
+    {
+      "truth_file": "1306926_mis_ms.tiff",
+      "pred_file": "1306926_pred.tiff",
+      "TP": 1,
+      "FP": 4,
+      "FN": 3,
+      "Precision": 0.2,
+      "Recall": 0.25,
+      "F1": 0.22222222222222224
+    },
+    {
+      "truth_file": "2962668_mis_ms_annotation.tiff",
+      "pred_file": "2962668_pred.tiff",
+      "TP": 1,
+      "FP": 7,
+      "FN": 1,
+      "Precision": 0.125,
+      "Recall": 0.5,
+      "F1": 0.2
+    },
+    {
+      "truth_file": "1338479_ms_mis.tiff",
+      "pred_file": "1338479_pred.tiff",
+      "TP": 5,
+      "FP": 26,
+      "FN": 15,
+      "Precision": 0.16129032258064516,
+      "Recall": 0.25,
+      "F1": 0.19607843137254902
+    },
+    {
+      "truth_file": "1581216_ms_mis.tiff",
+      "pred_file": "1581216_pred.tiff",
+      "TP": 2,
+      "FP": 11,
+      "FN": 6,
+      "Precision": 0.15384615384615385,
+      "Recall": 0.25,
+      "F1": 0.1904761904761905
+    },
+    {
+      "truth_file": "1956324_mis_ms.tiff",
+      "pred_file": "1956324_pred.tiff",
+      "TP": 1,
+      "FP": 9,
+      "FN": 8,
+      "Precision": 0.1,
+      "Recall": 0.1111111111111111,
+      "F1": 0.10526315789473685
+    },
+    {
+      "truth_file": "1352367_ms_mis.tiff",
+      "pred_file": "1352367_pred.tiff",
+      "TP": 0,
+      "FP": 4,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "1364799_ms_mis.tiff",
+      "pred_file": "1364799_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "1365795_ms_mis.tiff",
+      "pred_file": "1365795_pred.tiff",
+      "TP": 0,
+      "FP": 3,
+      "FN": 3,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "1568077_ms_mis.tiff",
+      "pred_file": "1568077_pred.tiff",
+      "TP": 0,
+      "FP": 3,
+      "FN": 4,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "1570779_mis_ms.tiff",
+      "pred_file": "1570779_pred.tiff",
+      "TP": 0,
+      "FP": 6,
+      "FN": 4,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "1583369_mis_ms.tiff",
+      "pred_file": "1583369_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "243823_ms.tiff",
+      "pred_file": "243823_pred.tiff",
+      "TP": 0,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "3750522_ms_edge.tiff",
+      "pred_file": "3750522_pred.tiff",
+      "TP": 0,
+      "FP": 6,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "3888848_ms_mis.tiff",
+      "pred_file": "3888848_pred.tiff",
+      "TP": 0,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "4508053_ms_edge.tiff",
+      "pred_file": "4508053_pred.tiff",
+      "TP": 0,
+      "FP": 3,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "4508765_ms_mis.tiff",
+      "pred_file": "4508765_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "4513371_ms_mis.tiff",
+      "pred_file": "4513371_pred.tiff",
+      "TP": 0,
+      "FP": 3,
+      "FN": 3,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "4896348_ms_edge_mis.tiff",
+      "pred_file": "4896348_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 4,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "4962999_mis_ms(not found).tiff",
+      "pred_file": "4962999_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "5030178_ms.tiff",
+      "pred_file": "5030178_pred.tiff",
+      "TP": 0,
+      "FP": 6,
+      "FN": 3,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "5047425_ms_notfound.tiff",
+      "pred_file": "5047425_pred.tiff",
+      "TP": 0,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "5379323_ms_edge.tiff",
+      "pred_file": "5379323_pred.tiff",
+      "TP": 0,
+      "FP": 4,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "575949_mis_ms.tiff",
+      "pred_file": "575949_pred.tiff",
+      "TP": 0,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "576145_mis_ms.tiff",
+      "pred_file": "576145_pred.tiff",
+      "TP": 0,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "6879637_ms_mis_bad.tiff",
+      "pred_file": "6879637_pred.tiff",
+      "TP": 0,
+      "FP": 1,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "8237117_mis_ms_edge.tiff",
+      "pred_file": "8237117_pred.tiff",
+      "TP": 0,
+      "FP": 2,
+      "FN": 3,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "8699899_ms_edge.tiff",
+      "pred_file": "8699899_pred.tiff",
+      "TP": 0,
+      "FP": 5,
+      "FN": 2,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    },
+    {
+      "truth_file": "8995588_ms_mis.tiff",
+      "pred_file": "8995588_pred.tiff",
+      "TP": 0,
+      "FP": 5,
+      "FN": 6,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "F1": 0.0
+    }
+  ]
+}

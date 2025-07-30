@@ -1,0 +1,16 @@
+{"time":"2025-07-22T17:38:34.192378702+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/nvme2/mingzhi/NucCorr/complete_model/wandb/offline-run-20250722_173833-zryihzcl/logs/debug-core.log"}
+{"time":"2025-07-22T17:38:34.409051923+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-07-22T17:38:34.409264362+08:00","level":"INFO","msg":"created new stream","id":"zryihzcl"}
+{"time":"2025-07-22T17:38:34.409310403+08:00","level":"INFO","msg":"stream: started","id":"zryihzcl"}
+{"time":"2025-07-22T17:38:34.409351661+08:00","level":"INFO","msg":"handler: started","stream_id":"zryihzcl"}
+{"time":"2025-07-22T17:38:34.409343667+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"zryihzcl"}
+{"time":"2025-07-22T17:38:34.409384668+08:00","level":"INFO","msg":"sender: started","stream_id":"zryihzcl"}
+{"time":"2025-07-22T17:38:34.415628914+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-07-22T23:51:38.530899825+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-07-22T23:51:38.531026277+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-07-22T23:51:38.531810725+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-22T23:51:38.53452824+08:00","level":"INFO","msg":"stream: closing","id":"zryihzcl"}
+{"time":"2025-07-22T23:51:38.534540271+08:00","level":"INFO","msg":"handler: closed","stream_id":"zryihzcl"}
+{"time":"2025-07-22T23:51:38.534547503+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zryihzcl"}
+{"time":"2025-07-22T23:51:38.534556216+08:00","level":"INFO","msg":"sender: closed","stream_id":"zryihzcl"}
+{"time":"2025-07-22T23:51:38.534598534+08:00","level":"INFO","msg":"stream: closed","id":"zryihzcl"}

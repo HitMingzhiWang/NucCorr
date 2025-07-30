@@ -1,0 +1,8 @@
+{"time":"2025-07-14T21:30:49.587731519+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/nvme2/mingzhi/NucCorr/correct_baseline/ASM/wandb/offline-run-20250714_213049-vom6xi04/logs/debug-core.log"}
+{"time":"2025-07-14T21:30:50.220074981+08:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-07-14T21:30:50.220211517+08:00","level":"INFO","msg":"created new stream","id":"vom6xi04"}
+{"time":"2025-07-14T21:30:50.220236487+08:00","level":"INFO","msg":"stream: started","id":"vom6xi04"}
+{"time":"2025-07-14T21:30:50.220265722+08:00","level":"INFO","msg":"handler: started","stream_id":"vom6xi04"}
+{"time":"2025-07-14T21:30:50.220267713+08:00","level":"INFO","msg":"sender: started","stream_id":"vom6xi04"}
+{"time":"2025-07-14T21:30:50.220264309+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vom6xi04"}
+{"time":"2025-07-14T21:30:50.223411959+08:00","level":"INFO","msg":"Starting system monitor"}

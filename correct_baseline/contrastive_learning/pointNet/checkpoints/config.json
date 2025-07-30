@@ -1,0 +1,20 @@
+{
+  "data_dir": "/nvme2/mingzhi/NucCorr/correct_baseline/contrastive_learning/pointNet/dataset/processed_data",
+  "batch_size": 64,
+  "num_workers": 4,
+  "max_points": 2048,
+  "embed_dim": 16,
+  "use_embeddings": true,
+  "input_dim": 3,
+  "num_classes": 1,
+  "epochs": 50,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "grad_clip": 1.0,
+  "lr_step": 30,
+  "lr_gamma": 0.5,
+  "save_dir": "/nvme2/mingzhi/NucCorr/correct_baseline/contrastive_learning/pointNet/checkpoints",
+  "save_interval": 10,
+  "seed": 42,
+  "device": "auto"
+}

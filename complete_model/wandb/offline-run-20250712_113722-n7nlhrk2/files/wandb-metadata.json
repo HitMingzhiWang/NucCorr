@@ -1,0 +1,91 @@
+{
+  "os": "Linux-5.15.0-25-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-07-12T03:37:22.814503Z",
+  "args": [
+    "--data_dir",
+    "/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei",
+    "--train_file",
+    "/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei/normal_nuclei_train.txt",
+    "--val_file",
+    "/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei/normal_nuclei_val.txt",
+    "--wandb_key",
+    "c414fdb4c81a8cd049cb5889fc118e1bfae04b66",
+    "--gmm_model_path",
+    "/nvme2/mingzhi/NucCorr/NucDet/gmm_zernike_model.pkl"
+  ],
+  "program": "/nvme2/mingzhi/NucCorr/complete_model/train.py",
+  "codePath": "train.py",
+  "root": "/nvme2/mingzhi/NucCorr/complete_model",
+  "host": "ubun",
+  "executable": "/home/mingzhi/.conda/envs/pointllm/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A800 80GB PCIe",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "1888559353856",
+      "used": "1334215806976"
+    }
+  },
+  "memory": {
+    "total": "2164138885120"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A800 80GB PCIe",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.8"
+}

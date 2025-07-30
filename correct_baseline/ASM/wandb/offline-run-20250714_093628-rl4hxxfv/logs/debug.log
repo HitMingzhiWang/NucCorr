@@ -1,0 +1,22 @@
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_setup.py:_flush():68] Current SDK version is 0.19.10
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_setup.py:_flush():68] Configure stats pid to 28118
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_setup.py:_flush():68] Loading settings from /home/mingzhi/.config/wandb/settings
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_setup.py:_flush():68] Loading settings from /nvme2/mingzhi/NucCorr/correct_baseline/ASM/wandb/settings
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /nvme2/mingzhi/NucCorr/correct_baseline/ASM/wandb/offline-run-20250714_093628-rl4hxxfv/logs/debug.log
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /nvme2/mingzhi/NucCorr/correct_baseline/ASM/wandb/offline-run-20250714_093628-rl4hxxfv/logs/debug-internal.log
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_init.py:init():852] calling init triggers
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'data_dir': '/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei', 'train_file': '/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei/normal_nuclei_train.txt', 'val_file': '/nvme2/mingzhi/NucCorr/NucCorrData/normal_nuclei/normal_nuclei/normal_nuclei_val.txt', 'pca_path': '/nvme2/mingzhi/NucCorr/shape_model.npz', 'batch_size': 16, 'epochs': 100, 'lr': 0.001, 'weight_decay': 0.0001, 'wandb_key': 'c414fdb4c81a8cd049cb5889fc118e1bfae04b66', 'project_name': 'asm_pointcloud', 'seed': 42, '_wandb': {}}
+2025-07-14 09:36:28,532 INFO    MainThread:28118 [wandb_init.py:init():893] starting backend
+2025-07-14 09:36:28,746 INFO    MainThread:28118 [wandb_init.py:init():897] sending inform_init request
+2025-07-14 09:36:28,749 INFO    MainThread:28118 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-07-14 09:36:28,749 INFO    MainThread:28118 [wandb_init.py:init():907] backend started and connected
+2025-07-14 09:36:28,755 INFO    MainThread:28118 [wandb_init.py:init():1002] updated telemetry
+2025-07-14 09:36:28,756 INFO    MainThread:28118 [wandb_init.py:init():1026] communicating run to backend with 90.0 second timeout
+2025-07-14 09:36:29,279 INFO    MainThread:28118 [wandb_init.py:init():1101] starting run threads in backend
+2025-07-14 09:36:29,451 INFO    MainThread:28118 [wandb_run.py:_console_start():2566] atexit reg
+2025-07-14 09:36:29,451 INFO    MainThread:28118 [wandb_run.py:_redirect():2414] redirect: wrap_raw
+2025-07-14 09:36:29,452 INFO    MainThread:28118 [wandb_run.py:_redirect():2483] Wrapping output streams.
+2025-07-14 09:36:29,453 INFO    MainThread:28118 [wandb_run.py:_redirect():2506] Redirects installed.
+2025-07-14 09:36:29,454 INFO    MainThread:28118 [wandb_init.py:init():1147] run started, returning control to user process
